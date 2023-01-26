@@ -1,0 +1,9 @@
+#chatbot-container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+#chatbot-messages {
+    height: 300px;
+    overflow-y: scroll;
+}

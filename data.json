@@ -16,6 +16,7 @@
                 "Hi there, how can I help?"
             ]
         },
+        
         {
             "patterns": [
                 "Bye",
@@ -28,6 +29,7 @@
                 "Bye! Come back again soon."
             ]
         },
+
         {
             "patterns": [
                 "Thanks",
@@ -39,6 +41,18 @@
                 "Happy to help!",
                 "Any time!",
                 "My pleasure"
+            ]
+        },
+
+        {
+            "patterns": [
+                "Which type of coffee do you have ?",
+                "Types of coffee",
+                "flavours of coffee"
+            ],
+            "responses": [
+                "We have Espresso, Decaf, Cappuccino, Latte, Robusta",
+                "The avaialble flavours are Espresso, Decaf, Cappuccino, Latte, Robusta"
             ]
         }
     ]
